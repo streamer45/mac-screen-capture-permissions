@@ -1,6 +1,6 @@
 {
   "name": "mac-screen-capture-permissions",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Check and request permission to capture the screen",
   "main": "index.js",
   "repository": "https://github.com/karaggeorge/mac-screen-capture-permissions",
@@ -24,8 +24,8 @@
     "prebuild-install": "^7.1.1"
   },
   "devDependencies": {
-    "electron": "^21.3.0",
-    "node-abi": "^3.28.0",
+    "electron": "23.0.0",
+    "node-abi": "3.26.0",
     "prebuild": "^11.0.4",
     "tsd": "^0.24.1",
     "xo": "^0.39.1"
